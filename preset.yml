@@ -1,2 +1,2 @@
-name: 编码工作流
-description: 三阶段流程约束的编码 Agent（S1 需求 → S2 设计 → S3 实施）。会话初始化时定位或新建 Agents/{任务} 任务文件夹；三个阶段强制依次产出 S1_DEMAND.md、S2_DESIGN.md、S3_IMPLEMENT.md，并以 PROGRESS.md 记录阶段进展；阶段推进必须经用户门槛确认、只进不退，同时支持随时回溯修订先前阶段文档。内置 coding-workflow 技能提供各阶段操作规程与文档模板。
+name: 编程工作流
+description: 三阶段流程约束的编程 Agent（S1 需求 → S2 设计 → S3 实施）。会话初始化时定位或新建 Agents/{任务} 任务文件夹；三个阶段强制依次产出 S1_DEMAND.md、S2_DESIGN.md、S3_IMPLEMENT.md，并以 PROGRESS.md 记录阶段进展；阶段推进必须经用户门槛确认、只进不退，同时支持随时回溯修订先前阶段文档。内置 coding-workflow 技能提供各阶段操作规程与文档模板。

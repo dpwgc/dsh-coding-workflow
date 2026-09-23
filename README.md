@@ -1,13 +1,13 @@
 # coding-workflow 预设源文件
 
-本工作区是 DeepSeek Harness 用户预设 **`coding-workflow`（编码工作流）** 的源文件副本，与安装目录保持同步。
+本工作区是 DeepSeek Harness 用户预设 **`coding-workflow`（编程工作流）** 的源文件副本，与安装目录保持同步。
 
 ## 安装位置
 
 ```
 ~/Library/Application Support/dsh-desktop/harness/.agent-presets/coding-workflow/
 ├── agent.cordis.yml              # 组合文件：standard 副本 + 工作流 persona + 预设内技能目录
-├── preset.yml                    # 展示元数据：name=编码工作流 + description
+├── preset.yml                    # 展示元数据：name=编程工作流 + description
 └── skills/coding-workflow/SKILL.md   # 三阶段详细规程（文档模板 / 追问纪律 / 门槛话术）
 ```
 
